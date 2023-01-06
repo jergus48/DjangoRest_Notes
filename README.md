@@ -17,5 +17,5 @@ Note:
 
 ![Snímka obrazovky 2023-01-06 223751](https://user-images.githubusercontent.com/85837671/211118599-15f9a012-a1a1-4915-b46b-8f0e1b8a7157.jpg)
 
-Part of styling: https://github.com/divanov11/notes-app
+Part of design: https://github.com/divanov11/notes-app
 
